@@ -1,0 +1,38 @@
+/* This is injected after a web page loads */
+
+
+._9zJMQ {
+  background: linear-gradient(.45turn, #d7b4ff, #ffffff);
+}
+
+/*Removes and replaces bottom sidebar ad*/
+._2suUz {
+  background-image: url(https://cdn.discordapp.com/attachments/916970558288191502/1051660636108619786/istockphoto-1345168941-170667a.png) !important;
+}
+
+.Tp-Pr {
+  display: none;
+}
+
+._3dVbn {
+  visibility: hidden;
+}
+
+._3dVbn:after {
+  visibility: visible;
+  display: block;
+  color: rgb(89, 62, 39);
+  content:"vous pouvez le faire." !important;
+}
+
+.oHn5F {
+  visibility: hidden;
+}
+
+.HyAZx {
+  visibility: hidden;
+}
+
+._1UcXV {
+  visibility: hidden;
+}
